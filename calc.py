@@ -7,4 +7,4 @@
 "def divide(a, b):
     return a / b"
 def power (a, b):
-    pass #ยังคิดไม่ออก 
+    pass #ยังคิดไม่ออก
